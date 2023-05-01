@@ -1,0 +1,341 @@
+C:\MedPic10\MedPic\MedPic\bin\Debug\MedPic.exe.config
+C:\MedPic10\MedPic\MedPic\bin\Debug\MedPic.exe
+C:\MedPic10\MedPic\MedPic\bin\Debug\MedPic.pdb
+C:\MedPic10\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\MedPic10\MedPic\MedPic\obj\Debug\MedPic.Form1.resources
+C:\MedPic10\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\MedPic10\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\MedPic10\MedPic\MedPic\obj\Debug\MedPic.exe
+C:\MedPic10\MedPic\MedPic\obj\Debug\MedPic.pdb
+C:\MedPic10\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\MedPic10\MedPic\MedPic\bin\Debug\AForge.Video.dll
+C:\MedPic20\MedPic\MedPic\bin\Debug\MedPic.exe.config
+C:\MedPic20\MedPic\MedPic\obj\Debug\MedPic.exe
+C:\MedPic20\MedPic\MedPic\obj\Debug\MedPic.pdb
+C:\MedPic20\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\MedPic20\MedPic\MedPic\obj\Debug\MedPic.Form1.resources
+C:\MedPic20\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\MedPic20\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\MedPic20\MedPic\MedPic\bin\Debug\MedPic.exe
+C:\MedPic20\MedPic\MedPic\bin\Debug\MedPic.pdb
+C:\MedPic20\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\MedPic20\MedPic\MedPic\bin\Debug\AForge.Video.dll
+C:\MedPic\MedPic\bin\Debug\MedPic.exe.config
+C:\MedPic\MedPic\obj\Debug\MedPic.exe
+C:\MedPic\MedPic\obj\Debug\MedPic.pdb
+C:\MedPic\MedPic\bin\Debug\MedPic.exe
+C:\MedPic\MedPic\bin\Debug\MedPic.pdb
+C:\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\MedPic\MedPic\bin\Debug\AForge.Video.dll
+C:\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\MedPic\MedPic\obj\Debug\MedPic.Form1.resources
+C:\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+E:\MedPic\MedPic\bin\Debug\MedPic.exe.config
+E:\MedPic\MedPic\obj\Debug\MedPic.exe
+E:\MedPic\MedPic\obj\Debug\MedPic.pdb
+E:\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+E:\MedPic\MedPic\obj\Debug\MedPic.Form1.resources
+E:\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+E:\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+E:\MedPic\MedPic\bin\Debug\MedPic.exe
+E:\MedPic\MedPic\bin\Debug\MedPic.pdb
+E:\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+E:\MedPic\MedPic\bin\Debug\AForge.Video.dll
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\bin\Debug\MedPic.exe.config
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\obj\Debug\MedPic.exe
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\obj\Debug\MedPic.pdb
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\bin\Debug\MedPic.exe
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\bin\Debug\MedPic.pdb
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\bin\Debug\AForge.Video.dll
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\obj\Debug\MedPic.Form1.resources
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+D:\LisansUstuOgrenciler\Burak\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\obj\Debug\MedPic.exe
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\obj\Debug\MedPic.pdb
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\bin\Debug\MedPic.exe
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\bin\Debug\MedPic.pdb
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\obj\Debug\MedPic.Form1.resources
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\Recep\Desktop\MedPicOkul\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+F:\MedPicOkul\MedPic\bin\Debug\MedPic.exe.config
+F:\MedPicOkul\MedPic\obj\Debug\MedPic.exe
+F:\MedPicOkul\MedPic\obj\Debug\MedPic.pdb
+C:\MedPicOkul\MedPic\bin\Debug\MedPic.exe.config
+C:\MedPicOkul\MedPic\obj\Debug\MedPic.exe
+C:\MedPicOkul\MedPic\obj\Debug\MedPic.pdb
+C:\MedPicOkul\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\MedPicOkul\MedPic\obj\Debug\MedPic.Form1.resources
+C:\MedPicOkul\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\MedPicOkul\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\MedPicOkul\MedPic\bin\Debug\MedPic.exe
+C:\MedPicOkul\MedPic\bin\Debug\MedPic.pdb
+C:\MedPicOkul\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\MedPicOkul\MedPic\bin\Debug\AForge.Video.dll
+C:\MedPicMsc\MedPic\bin\Debug\MedPic.exe.config
+C:\MedPicMsc\MedPic\obj\Debug\MedPic.exe
+C:\MedPicMsc\MedPic\obj\Debug\MedPic.pdb
+C:\MedPicMsc\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\MedPicMsc\MedPic\obj\Debug\MedPic.Form1.resources
+C:\MedPicMsc\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\MedPicMsc\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\MedPicMsc\MedPic\bin\Debug\MedPic.exe
+C:\MedPicMsc\MedPic\bin\Debug\MedPic.pdb
+C:\MedPicMsc\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\MedPicMsc\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\MedPicMsc\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\User\Desktop\MedPicMsc\MedPic\obj\Debug\MedPic.exe
+C:\Users\User\Desktop\MedPicMsc\MedPic\obj\Debug\MedPic.pdb
+C:\Users\User\Desktop\MedPicMsc\MedPic\bin\Debug\MedPic.exe
+C:\Users\User\Desktop\MedPicMsc\MedPic\bin\Debug\MedPic.pdb
+C:\Users\User\Desktop\MedPicMsc\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\MedPicMsc\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\MedPicMsc\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MedPicMsc\MedPic\obj\Debug\MedPic.Form1.resources
+C:\Users\User\Desktop\MedPicMsc\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\User\Desktop\MedPicMsc\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\MedPicOkul2\MedPic\bin\Debug\MedPic.exe.config
+C:\MedPicOkul2\MedPic\obj\Debug\MedPic.exe
+C:\MedPicOkul2\MedPic\obj\Debug\MedPic.pdb
+C:\MedPicOkul2\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\MedPicOkul2\MedPic\obj\Debug\MedPic.Form1.resources
+C:\MedPicOkul2\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\MedPicOkul2\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\MedPicOkul2\MedPic\bin\Debug\MedPic.exe
+C:\MedPicOkul2\MedPic\bin\Debug\MedPic.pdb
+C:\MedPicOkul2\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\MedPicOkul2\MedPic\bin\Debug\AForge.Video.dll
+C:\MedPicOkul3\MedPic\bin\Debug\MedPic.exe.config
+C:\MedPicOkul3\MedPic\obj\Debug\MedPic.exe
+C:\MedPicOkul3\MedPic\obj\Debug\MedPic.pdb
+C:\MedPicOkul3\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\MedPicOkul3\MedPic\obj\Debug\MedPic.Form1.resources
+C:\MedPicOkul3\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\MedPicOkul3\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\MedPicOkul3\MedPic\bin\Debug\MedPic.exe
+C:\MedPicOkul3\MedPic\bin\Debug\MedPic.pdb
+C:\MedPicOkul3\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\MedPicOkul3\MedPic\bin\Debug\AForge.Video.dll
+C:\MedPicOkul4\MedPic\bin\Debug\MedPic.exe.config
+C:\MedPicOkul4\MedPic\obj\Debug\MedPic.exe
+C:\MedPicOkul4\MedPic\obj\Debug\MedPic.pdb
+C:\MedPicOkul4\MedPic\bin\Debug\MedPic.exe
+C:\MedPicOkul4\MedPic\bin\Debug\MedPic.pdb
+C:\MedPicOkul4\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\MedPicOkul4\MedPic\bin\Debug\AForge.Video.dll
+C:\MedPicOkul4\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\MedPicOkul4\MedPic\obj\Debug\MedPic.Form1.resources
+C:\MedPicOkul4\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\MedPicOkul4\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+E:\Makaleler\MedPic\MedPic\bin\Debug\MedPic.exe.config
+E:\Makaleler\MedPic\MedPic\obj\Debug\MedPic.exe
+E:\Makaleler\MedPic\MedPic\obj\Debug\MedPic.pdb
+E:\Makaleler\MedPic\MedPic\bin\Debug\MedPic.exe
+E:\Makaleler\MedPic\MedPic\bin\Debug\MedPic.pdb
+E:\Makaleler\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+E:\Makaleler\MedPic\MedPic\bin\Debug\AForge.Video.dll
+E:\Makaleler\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+E:\Makaleler\MedPic\MedPic\obj\Debug\MedPic.Form1.resources
+E:\Makaleler\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+E:\Makaleler\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\obj\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\obj\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\bin\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\bin\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\obj\Debug\MedPic.Form1.resources
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\orkun\OneDrive\Desktop\311021 yedek\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\bin\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\bin\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\obj\Debug\MedPic.Form1.resources
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\obj\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\311021\MedPic\MedPic\obj\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\obj\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\obj\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\obj\Debug\MedPic.Form1.resources
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\bin\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\bin\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\orkun\OneDrive\Desktop\311021 - Kopya\MedPic\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\orkun\OneDrive\Desktop\MyPic\MedPic\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\orkun\OneDrive\Desktop\MyPic\MedPic\MedPic\obj\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\MyPic\MedPic\MedPic\obj\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\obj\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\obj\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\bin\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\bin\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+E:\10Aralık2021\MedPic\MedPic\bin\Debug\MedPic.exe.config
+E:\10Aralık2021\MedPic\MedPic\obj\Debug\MedPic.exe
+E:\10Aralık2021\MedPic\MedPic\obj\Debug\MedPic.pdb
+E:\10Aralık2021\MedPic\MedPic\bin\Debug\MedPic.exe
+E:\10Aralık2021\MedPic\MedPic\bin\Debug\MedPic.pdb
+E:\10Aralık2021\MedPic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+E:\10Aralık2021\MedPic\MedPic\bin\Debug\AForge.Video.dll
+E:\10Aralık2021\MedPic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+E:\10Aralık2021\MedPic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+E:\10Aralık2021\MedPic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\orkun\OneDrive\Desktop\MedPic\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\obj\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\obj\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\bin\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\bin\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\orkun\OneDrive\Desktop\MedPic - Kopya (2)\MedPic\bin\Debug\AForge.Video.dll
+E:\10Aralık2021\Medpic\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\obj\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\obj\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\bin\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\bin\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\orkun\OneDrive\Desktop\Medpic - Kopya (3)\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\Recep\Desktop\Medpic\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\Recep\Desktop\Medpic\MedPic\obj\Debug\MedPic.exe
+C:\Users\Recep\Desktop\Medpic\MedPic\obj\Debug\MedPic.pdb
+C:\Users\Recep\Desktop\Medpic\MedPic\bin\Debug\MedPic.exe
+C:\Users\Recep\Desktop\Medpic\MedPic\bin\Debug\MedPic.pdb
+C:\Users\Recep\Desktop\Medpic\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep\Desktop\Medpic\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\Recep\Desktop\Medpic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\Recep\Desktop\Medpic\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\Recep\Desktop\Medpic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\Recep\Desktop\Medpic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Medpic\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\User\Desktop\Medpic\MedPic\obj\Debug\MedPic.exe
+C:\Users\User\Desktop\Medpic\MedPic\obj\Debug\MedPic.pdb
+C:\Users\User\Desktop\Medpic\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Medpic\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\User\Desktop\Medpic\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\User\Desktop\Medpic\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Medpicorkun\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\User\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.exe
+C:\Users\User\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\User\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\User\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Medpicorkun\MedPic\bin\Debug\MedPic.exe
+C:\Users\User\Desktop\Medpicorkun\MedPic\bin\Debug\MedPic.pdb
+C:\Users\User\Desktop\Medpicorkun\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\Medpicorkun\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.pdb
+E:\Medpicorkun\MedPic\bin\Debug\MedPic.exe.config
+E:\Medpicorkun\MedPic\obj\Debug\MedPic.exe
+E:\Medpicorkun\MedPic\obj\Debug\MedPic.pdb
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.exe
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.pdb
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\bin\Debug\MedPic.exe
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\bin\Debug\MedPic.pdb
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\Recep\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\bin\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\bin\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\obj\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\obj\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\bin\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\bin\Debug\MedPic.pdb
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\orkun\OneDrive\Desktop\Medpicorkun - Kopya\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+E:\10Aralık2021\Medpicorkun\MedPic\bin\Debug\MedPic.exe.config
+E:\10Aralık2021\Medpicorkun\MedPic\obj\Debug\MedPic.exe
+E:\10Aralık2021\Medpicorkun\MedPic\obj\Debug\MedPic.pdb
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.exe
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.pdb
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\bin\Debug\MedPic.exe
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\bin\Debug\MedPic.pdb
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\User\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.exe
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.pdb
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\bin\Debug\MedPic.exe
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\bin\Debug\MedPic.pdb
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\bin\Debug\AForge.Video.dll
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.Entropi.resources
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+C:\Users\Recep\Desktop\MedpicorkunExor\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+E:\MedpicorkunExor\MedPic\bin\Debug\MedPic.exe.config
+E:\MedpicorkunExor\MedPic\obj\Debug\MedPic.exe
+E:\MedpicorkunExor\MedPic\obj\Debug\MedPic.pdb
+E:\MedpicorkunExor\MedPic\bin\Debug\MedPic.exe
+E:\MedpicorkunExor\MedPic\bin\Debug\MedPic.pdb
+E:\MedpicorkunExor\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+E:\MedpicorkunExor\MedPic\bin\Debug\AForge.Video.dll
+E:\MedpicorkunExor\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+E:\MedpicorkunExor\MedPic\obj\Debug\MedPic.Entropi.resources
+E:\MedpicorkunExor\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+E:\MedpicorkunExor\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+E:\10Aralık2021\MedpicorkunExor\MedPic\bin\Debug\MedPic.exe.config
+E:\10Aralık2021\MedpicorkunExor\MedPic\obj\Debug\MedPic.exe
+E:\10Aralık2021\MedpicorkunExor\MedPic\obj\Debug\MedPic.pdb
+E:\10Aralık2021\MedpicorkunExor\MedPic\bin\Debug\MedPic.exe
+E:\10Aralık2021\MedpicorkunExor\MedPic\bin\Debug\MedPic.pdb
+E:\10Aralık2021\MedpicorkunExor\MedPic\bin\Debug\AForge.Video.DirectShow.dll
+E:\10Aralık2021\MedpicorkunExor\MedPic\bin\Debug\AForge.Video.dll
+E:\10Aralık2021\MedpicorkunExor\MedPic\obj\Debug\MedPic.csprojResolveAssemblyReference.cache
+E:\10Aralık2021\MedpicorkunExor\MedPic\obj\Debug\MedPic.Entropi.resources
+E:\10Aralık2021\MedpicorkunExor\MedPic\obj\Debug\MedPic.Properties.Resources.resources
+E:\10Aralık2021\MedpicorkunExor\MedPic\obj\Debug\MedPic.csproj.GenerateResource.Cache
+C:\Users\orkun\OneDrive\Desktop\XorShiftAnd\MedPic\bin\Debug\MedPic.exe.config
+C:\Users\orkun\OneDrive\Desktop\XorShiftAnd\MedPic\obj\Debug\MedPic.exe
+C:\Users\orkun\OneDrive\Desktop\XorShiftAnd\MedPic\obj\Debug\MedPic.pdb
